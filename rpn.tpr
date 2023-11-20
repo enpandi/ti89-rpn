@@ -50,6 +50,6 @@ Use Return Value=0
 Enable Error Return=0
 Save Screen=1
 [File Editing]
-Open File=./ti89-rpn/rpn.c
+Open File=./rpn.c
 [Included Files]
 C File 1=rpn.c
