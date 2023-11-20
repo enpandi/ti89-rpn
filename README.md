@@ -4,4 +4,4 @@ Includes a second mode, where the user can load and populate pre-defined formula
 
 Made with [TIGCC](http://tigcc.ticalc.org/).
 
-TODO add more documentation, improve code quality, clean up code and filesystem.
+TODO add more documentation, improve code quality, clean up code and filesystem, add more functionality e.g. solvers, matrices, calculus.
